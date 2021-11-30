@@ -12,8 +12,3 @@ feature1()
     // line 3
     //line 4
 }
-
-bug1201fix()
-{
-    
-}
