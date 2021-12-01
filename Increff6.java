@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-// branch increff 
-=======
->>>>>>> master
+// master cleaned 
